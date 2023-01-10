@@ -17,19 +17,18 @@ const App = () => {
     <>
       <Header></Header>
       <Routes>
-        <Route exact path="/" element={<Home/>}></Route>
-        <Route exact path="/about" element={<About/>}></Route>
-        <Route exact path="/login" element={<Login/>}></Route>
-        <Route exact path="/contact" element={<Contact/>}></Route>
-        <Route exact path="/booking" element={<Booking/>}></Route>
-        <Route exact path="/mybooking" element={<MyBookings/>}></Route>
-        <Route exact path="/adminlogin" element={<AdminLogin/>}></Route>
-        <Route exact path="/adminpage" element={<AdminPage/>}></Route>
-        <Route exact path="/alldetails" element={<FlightDetails/>}></Route>
-
+        <Route exact path="/" element={<Home />}></Route>
+        <Route path="/about" element={<About />}></Route>
+        <Route path="/login" element={<Login />}></Route>
+        <Route path="/contact" element={<Contact />}></Route>
+        <Route path="/booking" element={<Booking />}></Route>
+        <Route path="/mybooking" element={<MyBookings />}></Route>
+        <Route path="/adminlogin" element={<AdminLogin />}></Route>
+        <Route path="/adminpage" element={<AdminPage />}></Route>
+        <Route path="/alldetails" element={<FlightDetails />}></Route>
       </Routes>
     </>
-  )
+  );
 }
 
 

@@ -63,7 +63,7 @@ const AdminLogin = () => {
     if (aid) {
         alert("Succesfully Logged In!")
       setIsSubmitted(true);
-      navigate('/adminpage');
+      navigate("/adminpage");
       // if (userData.password !== pass.value) {
       //   // Invalid password
       //   setErrorMessages({ name: "pass", message: errors.pass });
