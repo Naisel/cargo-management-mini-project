@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cargo-management-mini-project/static/css/main.8e8413fb.css",
+    "main.js": "/cargo-management-mini-project/static/js/main.5e653c7c.js",
+    "static/js/787.5c6bbc75.chunk.js": "/cargo-management-mini-project/static/js/787.5c6bbc75.chunk.js",
+    "index.html": "/cargo-management-mini-project/index.html",
+    "main.8e8413fb.css.map": "/cargo-management-mini-project/static/css/main.8e8413fb.css.map",
+    "main.5e653c7c.js.map": "/cargo-management-mini-project/static/js/main.5e653c7c.js.map",
+    "787.5c6bbc75.chunk.js.map": "/cargo-management-mini-project/static/js/787.5c6bbc75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8413fb.css",
+    "static/js/main.5e653c7c.js"
+  ]
+}
